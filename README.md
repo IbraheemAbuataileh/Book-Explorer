@@ -1,5 +1,7 @@
-git clone https://github.com/IbraheemAbuataileh/Book-Explorer.git
+git clone https://github.com/IbraheemAbuataileh/Book-Explorer.git 
+
 npm install
+
 npm run dev 
 
 Features
