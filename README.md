@@ -4,7 +4,7 @@ npm install
 
 npm run dev 
 
-Features
+Features :
 
 React 18 for fast and dynamic user interfaces.
 
