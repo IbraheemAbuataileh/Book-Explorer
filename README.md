@@ -1,8 +1,19 @@
-git clone https://github.com/IbraheemAbuataileh/Book-Explorer.git 
+Prerequisites
 
-npm install
+Ensure that you have the following installed:
 
-npm run dev 
+Node.js (v20.11.1 or higher)
+Git 
+
+Steps
+
+Clone the repository: git clone https://github.com/IbraheemAbuataileh/Book-Explorer.git 
+
+Install dependencies: Using npm: npm install
+
+Development Mode
+
+To start the development server and see the application in your browser, run: npm run dev 
 
 Features :
 
@@ -17,3 +28,15 @@ Vite for a fast development environment.
 Tailwind CSS for utility-first styling.
 
 TypeScript for type safety.
+
+Contributing
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature-name).
+
+Commit your changes (git commit -am 'Add new feature').
+
+Push to the branch (git push origin feature-name).
+
+Open a pull request.
