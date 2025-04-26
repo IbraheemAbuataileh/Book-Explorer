@@ -1,17 +1,17 @@
-Prerequisites
+Prerequisites:
 
 Ensure that you have the following installed:
 
 Node.js (v20.11.1 or higher)
 Git 
 
-Steps
+Steps:
 
 Clone the repository: git clone https://github.com/IbraheemAbuataileh/Book-Explorer.git 
 
 Install dependencies: Using npm: npm install
 
-Development Mode
+Development Mode :
 
 To start the development server and see the application in your browser, run: npm run dev 
 
@@ -29,7 +29,7 @@ Tailwind CSS for utility-first styling.
 
 TypeScript for type safety.
 
-Contributing
+Contributing :
 
 Fork the repository.
 
